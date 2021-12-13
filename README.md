@@ -8,3 +8,5 @@
 ### Notas de estudos sobre variados assuntos. 
 
 (Conteúdos em pt-br e inglês)
+
+- [Kubernetes](https://github.com/wh0isdxk/StudyNotes/tree/main/Kubernetes)
