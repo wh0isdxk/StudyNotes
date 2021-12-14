@@ -4,11 +4,11 @@
 
 Quando realizamos uma Modelagem de Ameaças, temos alguns pontos que são mais passíveis de ataque e que devem ser levados em consideração:
 
-- ataques de rede
-- aplicações vulneráveis
-- persistência
-- código malicioso
-- acesso a dados sensíveis
+- Ataques de rede
+- Aplicações vulneráveis
+- Persistência
+- Código malicioso
+- Acesso a dados sensíveis
 - DoS
 
 ### Attack Tree
