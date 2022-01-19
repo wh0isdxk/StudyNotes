@@ -1,7 +1,7 @@
 # Study Notes :dizzy:	
 
 <p align="center">  
-<img src="https://user-images.githubusercontent.com/37185061/145857667-ede23fda-0e27-4c28-9e37-12bcb546952d.jpg" width="228" />
+<img src="https://user-images.githubusercontent.com/37185061/150125052-5b8c681c-0a0e-45d3-9e3d-c2eee72230b0.png" width="802" />
 </p>
 
 
