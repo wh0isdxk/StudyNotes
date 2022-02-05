@@ -1,7 +1,7 @@
 # Study Notes :dizzy:	
 
 <p align="center">  
-<img src="https://user-images.githubusercontent.com/37185061/150125052-5b8c681c-0a0e-45d3-9e3d-c2eee72230b0.png" width="802" />
+<img src="https://user-images.githubusercontent.com/37185061/150125052-5b8c681c-0a0e-45d3-9e3d-c2eee72230b0.png" width="608"/>
 </p>
 
 
@@ -11,7 +11,8 @@
 
 - [Kubernetes](https://github.com/wh0isdxk/StudyNotes/tree/main/Kubernetes)
 - [API Security](https://github.com/wh0isdxk/StudyNotes/tree/main/API)
-
+- [Application Security](https://github.com/wh0isdxk/StudyNotes/tree/main/ApplicationSecurity)
+- [Mobile Studies](https://github.com/wh0isdxk/StudyNotes/blob/main/MobileSecurity.md)
 
 
 ### Cursos 
