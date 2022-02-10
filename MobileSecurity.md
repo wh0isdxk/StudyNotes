@@ -46,4 +46,4 @@ Um framework desenvolvido para instrumentação dinâmica de apps multiplataform
 
 - **QARK** 
 
-É uma ferramenta opensource utilizada para encontrar vulnerabilidades em apps Android. Ela automatiza o uso de multiplos descompiladores e facilita o trabalho, trazendo mais resultados nesse processo. 
+É uma [ferramenta opensource](https://github.com/linkedin/qark) utilizada para encontrar vulnerabilidades em apps Android. Ela automatiza o uso de multiplos descompiladores e facilita o trabalho, trazendo mais resultados nesse processo. 
