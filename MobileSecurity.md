@@ -12,12 +12,21 @@ Quando falamos sobre dispositivos móveis, logo de cara já podemos listar uma s
 Todos esses dados, separados e, principalmente juntos, apresentam uma parcela muito grande de nossas vidas e de pessoas que são próximas a nós. 
 Não é a toa que grande parte dos ataques atualmente tem tido mobile como seu vetor principal. 
 
+### Multi-layer defense 
+ | Layer | Problem | Defense |
+ |-------|---------|---------|
+ |Usuário|Eng. Social| Logins, registros, notas, localização, rastreio, biometria, sequestro de sessão, roubo|
+ |Aplicação| Malware, trojans | Detecção de malware detecção de swizzle, criptografia dos dados, ofuscação|
+ |Conexão| MITM, roubo de certificados, wi-fi| Criptografia em trânsito, SSL Pinning |
+ | OS | Rootkits, patching | Detecção de patches, detecção de rootkit/jailbreak, integridade de firmware e assinatura |
+ | Hardware| USB/carregador corrompido, roubo | Rastreio do dispositivo, biometria, apagar dados automaticamente |
+
 
 ### Android Protection Levels (user) 
 
 **Normal**: Esse é o padrão utilizado, permite a aplicação acessae features isoladas, que gerariam um mínimo risco as demais aplicações, ao usuário e ao sistema. E ele é garantido automaticamente pelo sistema, mas o user tem a permissão para fazer essas alterações na instalação e, hoje em dia, após também (GDPR e LGPD). 
 
-**Perigoso**: Permite a aplicaçãp performar certas operações que podem custar ao usuário algum dano maior, como transações bancárias (compras dentro do app), ter acesso e modificar dados do usuário que podem causar algum dano, e isso precisa ser explicitamente aprovado pelo usuário em questão (tela de confirmação). 
+**Perigoso**: Permite a aplicação performar certas operações que podem custar ao usuário algum dano maior, como transações bancárias (compras dentro do app), ter acesso e modificar dados do usuário que podem causar algum dano, e isso precisa ser explicitamente aprovado pelo usuário em questão (tela de confirmação). 
  
 **Signature**: Permite somente as aplicações que possuírem o mesmo certificado que a aplicação que declarou as permissões. 
 
