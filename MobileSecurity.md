@@ -47,3 +47,7 @@ Um framework desenvolvido para instrumentação dinâmica de apps multiplataform
 - **QARK** 
 
 É uma [ferramenta opensource](https://github.com/linkedin/qark) utilizada para encontrar vulnerabilidades em apps Android. Ela automatiza o uso de multiplos descompiladores e facilita o trabalho, trazendo mais resultados nesse processo. 
+
+- **MobSF**
+
+[Mobile Security Framework](https://github.com/MobSF/Mobile-Security-Framework-MobSF), é uma ferramenta automatizada e completa(funciona em todas as plataformas), voltada para pentest, análise de malware e avaliação de segurança, que permite análises estáticas e dinâmicas.
