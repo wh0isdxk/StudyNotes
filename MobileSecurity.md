@@ -22,3 +22,28 @@ Não é a toa que grande parte dos ataques atualmente tem tido mobile como seu v
 **Signature**: Permite somente as aplicações que possuírem o mesmo certificado que a aplicação que declarou as permissões. 
 
 **Signature or System**: Permite as aplicações que estiverem na imagem do sistema Android ou que forem assinadas com os mesmos certificados. 
+
+### Ferramentas 
+- **Apktool** 
+
+Uma das ferramentas mais importantes quando se trata de pentest em Android, é usada pra engenharia reversa, criação de malware infectando apps legítimos. 
+
+- **Dex2jar and JDGUI** 
+
+Dex2jar converte arquivos .dex para .jar e o JDGUI decompila o .jar para o código fonte Java. 
+
+- **Burp Suite**
+
+Outra ferramenta super utilizada quando se fala de pentest é o Burp, e uma das possibilidades utilizando ele é de analisar o tráfego rodando o app num emulador. 
+
+- **drozer** 
+
+Uma tool automatizada de análises voltada para Android. 
+
+- **Frida**
+
+Um framework desenvolvido para instrumentação dinâmica de apps multiplataforma, permite adentrar no app e manipular um determinado comando em tempo de execução (runtime). 
+
+- **QARK** 
+
+É uma ferramenta opensource utilizada para encontrar vulnerabilidades em apps Android. Ela automatiza o uso de multiplos descompiladores e facilita o trabalho, trazendo mais resultados nesse processo. 
