@@ -23,6 +23,7 @@
 - [Coursera](https://www.coursera.org/)
 
 ### Vídeos 
+- [Defcon - 2016 - Salvador Mendoza - Samsung Pay: Tokenized Numbers, Flaws and Issues](https://www.youtube.com/watch?v=BqjyewIEFSc)
 - [Black Hat - 2022 - A Universal Way to Exploit Android PendingIntents in High-profile and System Apps](https://www.youtube.com/watch?v=v5sKK6_Ua-U)
 - [Black Hat - 2022 - They Hacked Thousands of Cloud Accounts Then Sent Us Weird GIFs](https://www.youtube.com/watch?v=xMjDgj3ZwXI)
 - [Black Hat - 2022 - ChaosDB: How We Hacked Databases of Thousands of Azure Customers](https://www.youtube.com/watch?v=RAz1ml-qhnk)
