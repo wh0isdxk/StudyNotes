@@ -113,3 +113,14 @@ Dispositivos móveis são pequenos e fáceis de roubar. Eles também se perdem c
 
 Os dispositivos móveis geralmente estão conectados a pelo menos duas redes. e às vezes mais. Estes incluem conexão celular, Wi-FI, Bluetooth e GPS. Cada um desses pontos de conexão pode ser explorado. 
 A falsificação de WiFi, por exemplo, é uma ameaça na qual um invasor simula o acesso a uma rede WiFi aberta e induz os usuários a se conectarem para detectar dados sensíveis que estão sendo processados por essa rede.
+
+
+## Authentication 
+
+- [ ] Se o aplicativo fornecer aos usuários acesso a um serviço remoto, alguma forma de autenticação, como autenticação de nome de usuário e senha, será executada no terminal remoto.	
+- [ ] Se o gerenciamento de sessão com estado for usado (stateful session management), o terminal remoto usará identificadores de sessão gerados aleatoriamente para autenticar as solicitações de clientes, sem que as credenciais do usuário sejam enviadas.	
+- [ ] Se a autenticação baseada em token sem estado for usada (stateless token-based authentication), o servidor fornecerá um token que foi assinado usando um algoritmo seguro.	
+- [ ] O endpoint remoto termina a sessão existente quando o usuário efetuar logout.	
+- [ ] Uma política de senha existe e é imposta no terminal remoto.	
+- [ ] O terminal remoto implementa um mecanismo para proteger contra o envio de credenciais em um número excessivo.	
+- [ ] 
